@@ -37,7 +37,7 @@ import android.util.SizeF;
 import android.view.View;
 import android.widget.RemoteViews;
 
-import com.android.internal.util.superior.OmniJawsClient;
+import com.android.internal.util.infinity.OmniJawsClient;
 
 import org.omnirom.omnijaws.Config;
 import org.omnirom.omnijaws.R;

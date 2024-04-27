@@ -28,7 +28,7 @@ import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.android.internal.util.superior.OmniJawsClient;
+import com.android.internal.util.infinity.OmniJawsClient;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
