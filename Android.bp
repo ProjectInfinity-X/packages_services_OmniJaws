@@ -31,6 +31,10 @@ android_app {
     "default_permissions_org.omnirom.omnijaws",
   ],
 
+  optional_uses_libs: [
+    "androidx.window.extensions",
+    "androidx.window.sidecar"
+  ],
 }
 
 prebuilt_etc {
