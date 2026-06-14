@@ -50,7 +50,7 @@ import androidx.compose.ui.geometry.Offset
 import androidx.compose.ui.graphics.StrokeCap
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
-import com.android.internal.util.crdroid.OmniJawsClient
+import com.android.internal.util.infinity.OmniJawsClient
 import org.omnirom.omnijaws.R
 import java.text.SimpleDateFormat
 import java.util.Calendar

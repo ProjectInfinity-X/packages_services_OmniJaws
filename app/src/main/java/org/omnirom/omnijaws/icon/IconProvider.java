@@ -5,7 +5,7 @@ import android.content.Context;
 import android.content.res.Configuration;
 import android.graphics.drawable.Drawable;
 
-import com.android.internal.util.crdroid.OmniJawsClient;
+import com.android.internal.util.infinity.OmniJawsClient;
 
 
 public class IconProvider {

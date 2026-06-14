@@ -23,7 +23,7 @@ import androidx.activity.enableEdgeToEdge
 import androidx.activity.viewModels
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
-import com.android.internal.util.crdroid.OmniJawsClient
+import com.android.internal.util.infinity.OmniJawsClient
 import com.android.axion.compose.theme.AxionTheme
 
 class WeatherDashboardActivity : ComponentActivity(), OmniJawsClient.OmniJawsObserver {
