@@ -37,7 +37,6 @@ android_app {
     "androidx.lifecycle_lifecycle-runtime-compose",
     "androidx.lifecycle_lifecycle-runtime-ktx",
     "androidx.lifecycle_lifecycle-viewmodel-compose",
-    "com.crdroid.apps.resources", 
   ],
 
   optimize: {
