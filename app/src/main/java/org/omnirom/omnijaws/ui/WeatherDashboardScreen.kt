@@ -76,7 +76,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
-import com.android.internal.util.crdroid.OmniJawsClient
+import com.android.internal.util.infinity.OmniJawsClient
 import kotlinx.coroutines.launch
 import org.omnirom.omnijaws.R
 import org.omnirom.omnijaws.ui.components.DailyForecastCard
